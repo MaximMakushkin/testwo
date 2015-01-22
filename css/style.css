@@ -1,0 +1,4 @@
+body {background-image: url(../img/bg.jpg);}
+h1 {font-family:FranklinGothicMediumCond; text-align: center;}
+
+@font-face {font-family: FranklinGothicMediumCond; src: url(../fonts/FranklinGothicMediumCond.ttf); }
